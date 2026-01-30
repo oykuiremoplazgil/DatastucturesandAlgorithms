@@ -2,7 +2,7 @@
 #  Data Structures and Algorithms - Lab Studies
 
 ### [TR]Özet
-Bu repository, **Yazılım Mühendisliği 2. Sınıf** "Veri Yapıları ve Algoritmalar" dersi kapsamında gerçekleştirilen laboratuvar çalışmalarını içermektedir. Temel veri yapılarının sıfırdan implementasyonu ve algoritmik karmaşıklık analizleri üzerine odaklanmaktadır.
+Bu repository, **Yazılım Mühendisliği 2. Sınıf** "Veri Yapıları ve Algoritmalar" dersi kapsamında gerçekleştirilen laboratuvar ödevlerim. Temel veri yapılarının sıfırdan implementasyonu ve algoritmik karmaşıklık analizleri üzerine odaklanmaktadır.
 
 **Kapsanan Temel Alanlar:**
 * **Veri Yapıları:** Doğrusal ve hiyerarşik veri modellerinin yönetimi.
